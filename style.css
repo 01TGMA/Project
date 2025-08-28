@@ -1,6 +1,10 @@
 #Header{
     display: flex;
     flex-direction: row;
+    gap: 3rem;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
 }
 
 #Header img{
