@@ -31,7 +31,9 @@ a{
 
 #Hero{
     background-image: url(./Images/PowerPlant.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    width: 100vw;
+    height: 100vh;
 }
