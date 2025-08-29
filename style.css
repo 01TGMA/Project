@@ -28,3 +28,10 @@ a{
     color: #88c932;
     text-align: center;
 }
+
+#Hero{
+    background-image: url(./Images/PowerPlant.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
