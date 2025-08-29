@@ -44,3 +44,11 @@ a{
     height: 100vh;
     text-align: center;
 }
+
+#Hero p{
+    font-size: 1.25rem;
+    width: 45rem;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+}
