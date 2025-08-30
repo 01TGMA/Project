@@ -128,3 +128,12 @@ a{
     height: 15rem;
     background-color: #88c932;
 }
+
+.cButtons{
+    width: 7Styled rem;
+    height: 1.6rem;
+    border: 0rem;
+    border-radius: 0.5rem;
+    background-color: rgba(233, 229, 229, 0.61);
+    backdrop-filter: blur(0.09rem);  
+}
