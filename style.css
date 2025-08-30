@@ -55,6 +55,7 @@ a{
     position: absolute;
     top: 50%;
     left: 20%;
+    backdrop-filter: blur(0.04rem);    
 }
 
 #Hero div button{
