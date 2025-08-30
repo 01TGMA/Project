@@ -137,12 +137,23 @@ a{
     border-radius: 0.5rem;
     background-color: rgba(233, 229, 229, 0.61);
     backdrop-filter: blur(0.09rem);  
+    margin-top: 2rem;
 }
 
 #Sales h3{
     margin-top: 3rem;
 }
 
+#Sales p{
+    margin-top: 0.5rem;
+}
+
+
+
 #Support h3{
     margin-top: 3rem;
+}
+
+#Support p{
+    margin-top: 0.5rem;
 }
