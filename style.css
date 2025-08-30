@@ -138,3 +138,11 @@ a{
     background-color: rgba(233, 229, 229, 0.61);
     backdrop-filter: blur(0.09rem);  
 }
+
+#Sales h3{
+    margin-top: 3rem;
+}
+
+#Support h3{
+    margin-top: 3rem;
+}
