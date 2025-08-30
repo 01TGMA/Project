@@ -97,12 +97,15 @@ a{
 }
 
 #Contact{
+    width: 100vw;
+    height: 100vh;
     text-align: center;
 }
 
 #Contact h2 {
     margin-top: 3rem;
 }
+
 
 #Contact h2:hover {
     transition: ease-in;
