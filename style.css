@@ -99,3 +99,13 @@ a{
 #Contact{
     text-align: center;
 }
+
+#Contact h2 {
+    margin-top: 3rem;
+}
+
+#Contact h2:hover {
+    transition: ease-in;
+    color: #88c932;
+    text-decoration: underline;
+}
