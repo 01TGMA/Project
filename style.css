@@ -136,8 +136,7 @@ a{
     height: 1.6rem;
     border: 0rem;
     border-radius: 0.5rem;
-    background-color: rgba(233, 229, 229, 0.61);
-    backdrop-filter: blur(0.09rem);  
+    background-color: rgb(233, 229, 229);  
     margin-top: 2rem;
 }
 
