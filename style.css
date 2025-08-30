@@ -127,6 +127,7 @@ a{
     width: 22rem;
     height: 15rem;
     background-color: #88c932;
+    border-radius: 0.5rem;
 }
 
 .cButtons{
