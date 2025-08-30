@@ -81,6 +81,11 @@ a{
     margin-top: 3rem;
 }
 
+#About p{
+    margin-top: 0.8rem;
+    font-size: larger;
+}
+
 #About h2:hover {
     transition: ease-in;
     color: #88c932;
