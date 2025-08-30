@@ -119,9 +119,12 @@ a{
     width: fit-content;
     height: fit-content;
     margin: auto;
+    gap: 2rem;
+
 }
 
 #CTA div{
     width: 25rem;
     height: 20rem;
+    background-color: #88c932;
 }
