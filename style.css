@@ -112,3 +112,8 @@ a{
     color: #88c932;
     text-decoration: underline;
 }
+
+#CTA{
+    display: flex;
+    flex-direction: row;
+}
