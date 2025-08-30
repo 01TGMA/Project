@@ -56,3 +56,12 @@ a{
     top: 50%;
     left: 20%;
 }
+
+#Hero div button{
+    width: 4.2rem;
+    height: 1.6rem;
+    border: 0rem;
+    border-radius: 0.5rem;
+    background-color: rgba(233, 229, 229, 0.61);
+    backdrop-filter: blur(0.09rem);
+}
