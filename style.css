@@ -119,6 +119,7 @@ a{
     width: fit-content;
     height: fit-content;
     margin: auto;
+    margin-top: 3rem;
     gap: 2rem;
 
 }
