@@ -76,3 +76,17 @@ a{
     height: 100vh;
     text-align: center;
 }
+
+#About h2{
+    margin-top: 3rem;
+}
+
+#About h2:hover {
+    transition: ease-in;
+    color: #88c932;
+    text-decoration: underline;
+}
+
+#About i{
+    color: #88c932;
+}
