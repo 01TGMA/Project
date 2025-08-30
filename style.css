@@ -70,3 +70,7 @@ a{
 #Hero div button:hover {
     background-color: rgba(32, 201, 29);
 }
+
+#About{
+    text-align: center;
+}
