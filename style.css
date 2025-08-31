@@ -179,3 +179,7 @@ a{
     height: 100vh;
     text-align: center;
 }
+
+#pictures h2 {
+    margin-top: 3rem;
+}
