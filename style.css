@@ -159,8 +159,10 @@ a{
 }
 
 #Pictures{
-    width: 100vw;
+    width: fit-content;
     height: fit-content;
+    margin: auto;
+    margin-top: 2rem;
     display: grid;
     grid-template-columns: repeat(3, 0.2fr);
     grid-template-rows: repeat(2, 0.3fr);
