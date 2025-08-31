@@ -161,6 +161,10 @@ a{
 #Pictures{
     width: 100vw;
     height: fit-content;
+    display: grid;
+    grid-template-columns: repeat(3, 0.2fr);
+    grid-template-rows: repeat(2, 0.3fr);
+    gap: 20px;
 }
 
 #Pictures img{
