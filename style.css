@@ -158,6 +158,11 @@ a{
     margin-top: 0.5rem;
 }
 
+#Pictures{
+    width: 100vw;
+    height: fit-content;
+}
+
 #Pictures img{
     width: 20rem;
     height: 17rem;
