@@ -192,6 +192,8 @@ a{
 
 #PS{
     text-align: center;
+    width: 100vw;
+    height: 100vh;
 }
 
 #PS h2{
@@ -205,19 +207,18 @@ a{
 }
 
 #Services{
-    width: 100vw;
-    height: 100vh;
+    width: fit-content;
+    height: fit-content;
     margin: auto;
-    margin-top: 2rem;
+    margin-top:     4rem;
     display: grid;
     grid-template-columns: repeat(3, 0.2fr);
-    grid-template-rows: repeat(2, 0.3fr);
+    grid-template-rows: repeat(2, 0.2fr);
     gap: 20px;   
 }
 
 #Services div{
-    margin-top: 5rem;
-    width: fit-content;
-    height: fit-content;
+    width: 17rem;
+    height: 20rem;
     background-color:rgb(70, 183, 102);
 }
