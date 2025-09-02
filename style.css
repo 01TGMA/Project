@@ -261,3 +261,11 @@ a{
     z-index: 1000;
     backdrop-filter: blur(0.09rem);
 }
+
+#Close{
+    position: fixed;
+    color: black;
+    top: 0;
+    right: 20;   
+    margin-top: 1rem; 
+}
