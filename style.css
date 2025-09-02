@@ -193,3 +193,13 @@ a{
 #PS{
     text-align: center;
 }
+
+#PS h2{
+    margin-top: 3rem;
+}
+
+#PS h2:hover {
+    transition: ease-in;
+    color: #88c932;
+    text-decoration: underline;
+}
