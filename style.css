@@ -220,7 +220,15 @@ a{
 #Services div{
     width: 17rem;
     height: 20rem;
-    background-color:rgb(70, 183, 102);
+    border: 0rem;
+    border-radius: 0.5rem;
+    background-color:whitesmoke;
+    
+}
+
+#Services div:hover{
+    background-color: #88c932;
+    backdrop-filter: blur(0.03rem);
 }
 
 #Services div h3{
