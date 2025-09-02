@@ -246,3 +246,19 @@ a{
 #Services div h4{
     margin-top: 1rem;
 }
+
+#PopUp{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: 0,0,0,0.5;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(0.09rem);
+}
