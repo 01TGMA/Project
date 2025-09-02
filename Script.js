@@ -7,11 +7,15 @@ if (learnMore){
     window.location.href = "About.html"
 })    
 }
-
-sales.addEventListener("click", () => {
+if(sales){
+ sales.addEventListener("click", () => {
     document.getElementById("PopUp").style.display = "flex";
-})
+})   
+}
 
-support.addEventListener("click", () =>{
+
+if(support){
+ support.addEventListener("click", () =>{
     document.getElementById("PopUp").style.display = "flex";
-})
+})   
+}
