@@ -214,3 +214,10 @@ a{
     grid-template-rows: repeat(2, 0.3fr);
     gap: 20px;   
 }
+
+#Services div{
+    margin-top: 5rem;
+    width: fit-content;
+    height: fit-content;
+    background-color:rgb(70, 183, 102);
+}
