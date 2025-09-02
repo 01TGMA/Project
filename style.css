@@ -203,3 +203,14 @@ a{
     color: #88c932;
     text-decoration: underline;
 }
+
+#Services{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3, 0.2fr);
+    grid-template-rows: repeat(2, 0.3fr);
+    gap: 20px;   
+}
