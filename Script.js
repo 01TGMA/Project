@@ -7,10 +7,10 @@ learnMore.addEventListener("click", () => {
     window.location.href = "About.html"
 }) 
 
-support.addEventListener("click" () =>{
-
+support.addEventListener("click", () => {
+    document.getElementById("PopUp").style.display = "flex";
 })
 
-support.addEventListener("click" () =>{
-    
+support.addEventListener("click", () =>{
+    document.getElementById("PopUp").style.display = "flex";
 })
