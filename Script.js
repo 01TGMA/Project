@@ -1,11 +1,12 @@
 const learnMore = document.getElementById("Learn")
-const  = document.getElementById("Sales")
-const support = document.getElementById("Support")
+const sales = document.getElementById("Salesbtn")
+const support = document.getElementById("Supportbtn")
 const pop = document.getElementById("PopUp")
-
-learnMore.addEventListener("click", () => {
+if (learnMore){
+ learnMore.addEventListener("click", () => {
     window.location.href = "About.html"
-}) 
+})    
+}
 
 sales.addEventListener("click", () => {
     document.getElementById("PopUp").style.display = "flex";
