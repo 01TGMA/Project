@@ -269,3 +269,8 @@ a{
     right: 20;   
     margin-top: 1rem; 
 }
+
+#main{
+    width: 100vw;
+    height: fit-content;
+}
