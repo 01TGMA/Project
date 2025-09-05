@@ -273,4 +273,15 @@ a{
 #main{
     width: 100vw;
     height: fit-content;
+    text-align: center;
+}
+
+#mainHeader{
+    margin-top: 2rem;
+}
+
+#mainHeader:hover {
+    transition: ease-in;
+    color: #88c932;
+    text-decoration: underline;
 }
