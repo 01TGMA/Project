@@ -292,6 +292,7 @@ a{
     width: fit-content;
     height: fit-content;
     margin: auto;
+    gap: 4rem;
 }
 
 .focus{
