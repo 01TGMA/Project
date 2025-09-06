@@ -291,6 +291,7 @@ a{
     grid-template-columns: repeat(4, 0.2fr);
     width: fit-content;
     height: fit-content;
+    margin: auto;
 }
 
 .focus{
