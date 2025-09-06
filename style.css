@@ -292,11 +292,12 @@ a{
     width: fit-content;
     height: fit-content;
     margin: auto;
-    gap: 4rem;
+    gap: 3rem;
 }
 
 .focus{
-    width: 10rem;
-    height:10rem;
+    width: 15rem;
+    height:15rem;
+    border-radius: 8rem;
     background-color: #88c932;
 }
