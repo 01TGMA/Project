@@ -290,3 +290,9 @@ a{
     display: grid;
     grid-template-columns: repeat(4, 0.2fr);
 }
+
+.focus{
+    width: 10rem;
+    height:10rem;
+    background-color: #88c932;
+}
