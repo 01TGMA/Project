@@ -285,3 +285,8 @@ a{
     color: #88c932;
     text-decoration: underline;
 }
+
+#areas{
+    display: grid;
+    grid-template-columns: repeat(4, 0.2fr);
+}
