@@ -362,3 +362,8 @@ a{
     text-align: center;
 }
 
+#pics h1:hover {
+    transition: ease-in;
+    color: #88c932;
+    text-decoration: underline;
+}
