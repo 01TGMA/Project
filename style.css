@@ -318,8 +318,10 @@ a{
     font-size: 1.1rem ;
 }
 
-#content{
+.content{
   text-align: center;  
+  font-size: 0.9rem;
+  margin-top: 1rem;
 }
  
 .focus:hover content{
