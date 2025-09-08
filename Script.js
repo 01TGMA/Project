@@ -4,6 +4,7 @@ const support = document.getElementById("Supportbtn")
 const pop = document.getElementById("PopUp")
 const close = document.getElementById("Close")
 const lM = document.getElementsByClassName("LM")
+const showMore = document.getElementById("ShowMore")
 
 if (learnMore){
  learnMore.addEventListener("click", () => {
@@ -34,3 +35,8 @@ for(i = 0; i < lM.length; i++){
  lM[i].addEventListener("click", () => {
     window.location.href = "About.html"
 })}}
+
+if (showMore){
+ showMore.addEventListener("click", () => {
+    window.location.href = "Pictures.html"
+})} 
