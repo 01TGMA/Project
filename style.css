@@ -342,3 +342,15 @@ a{
 .focus:hover .LM{
     display: block;
 }
+
+#FocusAreas{
+    text-align:center ;
+}
+
+.focuses h3 {
+    margin-top: 1rem;
+}
+
+.focuses p{
+    margin-top: 0.5rem;
+}
