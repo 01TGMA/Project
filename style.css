@@ -322,8 +322,10 @@ a{
   text-align: center;  
   font-size: 0.9rem;
   margin-top: 1rem;
+  display: none;
 }
  
-.focus:hover content{
+.focus:hover .content{
     text-align: center;
+    display: block;
 }
