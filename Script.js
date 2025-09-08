@@ -3,7 +3,7 @@ const sales = document.getElementById("Salesbtn")
 const support = document.getElementById("Supportbtn")
 const pop = document.getElementById("PopUp")
 const close = document.getElementById("Close")
-const lM = document.getElementById("LM")
+const lM = document.getElementsByClassName("LM")
 
 if (learnMore){
  learnMore.addEventListener("click", () => {
