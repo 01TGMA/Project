@@ -3,6 +3,7 @@ const sales = document.getElementById("Salesbtn")
 const support = document.getElementById("Supportbtn")
 const pop = document.getElementById("PopUp")
 const close = document.getElementById("Close")
+const lM = document.getElementById("LM")
 
 if (learnMore){
  learnMore.addEventListener("click", () => {
@@ -27,3 +28,8 @@ if(close){
     document.getElementById("PopUp").style.display = "none";
 })      
 }
+
+if (lM){
+ lM.addEventListener("click", () => {
+    window.location.href = "About.html"
+})}
