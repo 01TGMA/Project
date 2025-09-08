@@ -335,5 +335,9 @@ a{
 }
 
 .LM:hover{
-    color: #88c932;
+    color: #ffffff;
+}
+
+.focus:hover .LM{
+    display: block;
 }
