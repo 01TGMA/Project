@@ -367,3 +367,12 @@ a{
     color: #88c932;
     text-decoration: underline;
 }
+
+#picsImages{
+    grid-template-columns: repeat(4, 0.2fr) ;
+}
+
+#picsImages img{
+    width: 20rem;
+    height: 17rem;
+}
