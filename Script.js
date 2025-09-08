@@ -30,6 +30,7 @@ if(close){
 }
 
 if (lM){
- lM.addEventListener("click", () => {
+for(i = 0; i < lM.length; i++){
+ lM[i].addEventListener("click", () => {
     window.location.href = "About.html"
-})}
+})}}
