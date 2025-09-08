@@ -336,6 +336,7 @@ a{
 
 .LM:hover{
     color: #ffffff;
+    text-decoration: underline;
 }
 
 .focus:hover .LM{
