@@ -376,3 +376,20 @@ a{
     width: 20rem;
     height: 17rem;
 }
+
+#ShowMore{
+
+}
+
+#ShowMore{
+    width: 6.2rem;
+    height: 1.6rem;
+    border: 0rem;
+    border-radius: 0.5rem;
+    background-color: rgba(233, 229, 229, 0.61);
+    backdrop-filter: blur(0.09rem);
+}
+
+#ShowMore:hover {
+    background-color: rgba(32, 201, 29);
+}
