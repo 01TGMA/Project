@@ -369,6 +369,7 @@ a{
 }
 
 #picsImages{
+    margin-top: 1rem;
     grid-template-columns: repeat(3, 0.2fr) ;
 }
 
